@@ -1,2 +1,2 @@
 #!/bin/bash
-read -p "hello user"
+-p "hello user"
